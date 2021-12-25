@@ -1,8 +1,8 @@
 # Weather  ✓
 
-## Waether Application
+## Waather Application
 
-    This application was created as example for CV. In this application you will be able to read news in IT world
+    This application was created as example for CV. In this application you will be able to see temperature in all around the world
 
 ![Banner](https://github.com/appbrewery-Mike/Images-and-Gifs-for-readme/blob/master/WeatherGIF.gif)
 
