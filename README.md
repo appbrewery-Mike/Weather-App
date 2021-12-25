@@ -1,6 +1,6 @@
 # Weather  ✓
 
-## Waather Application
+## Weather Application
 
     This application was created as example for CV. In this application you will be able to see temperature in all around the world
 
